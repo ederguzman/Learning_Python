@@ -2,4 +2,4 @@
 
 Repositorio de código en Python.
 
-[Visita mi Facebook] (https://www.facebook.com/joseeder.guzmanmendoza)
+[Visita mi Facebook](https://www.facebook.com/joseeder.guzmanmendoza)
